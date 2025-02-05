@@ -1,0 +1,30 @@
+p{
+    font-family:'Garamond';
+    font-size:35px;
+    color:blue;
+    position: relative;
+    display: inline-block;
+}
+
+input[type="file"]::file-selector-button {
+    background-color: #A7B49E;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.form-control{
+    width:120px;
+    background-color: #4CAF50;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+img{
+    max-width:800px;
+    max-height:800px;
+}
