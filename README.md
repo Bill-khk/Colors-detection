@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/ed5998e2-04a7-4e85-bac0-f47ceb236345)Small project : 
+Small project : 
   -From a responsive website (Flask, Bootstrap)
   -Detect the main used colors of a uploaded (Numpy, PILl, ML)
   -Display the color pallette (Sklearn) 
