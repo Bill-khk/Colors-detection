@@ -6,4 +6,5 @@ Small project :
 Note : Interesting project, focus and utilization of Kmeans algorithm with NumPy data to get the centroid of RGB colors while having some image and web manipulation. 
 
 Preview : 
+
 ![gitinfos](https://github.com/user-attachments/assets/d85dd06d-f22f-41a9-8d42-553fe6bad835)
